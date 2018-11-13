@@ -1,0 +1,598 @@
+{
+"frames": [
+	{
+		"filename": "BaraDeTimp.png",
+		"frame": {"x":0, "y":892, "w":324, "h":10},
+		"spriteSourceSize": {"x":0,"y":0,"w":324,"h":10},
+		"sourceSize": {"w":324,"h":10}
+	},
+	{
+		"filename": "BaraDeTimpAlb.png",
+		"frame": {"x":0, "y":1184, "w":15, "h":9},
+		"spriteSourceSize": {"x":0,"y":0,"w":15,"h":9},
+		"sourceSize": {"w":15,"h":9}
+	},
+	{
+		"filename": "Border.png",
+		"frame": {"x":38, "y":1184, "w":5, "h":9},
+		"spriteSourceSize": {"x":0,"y":0,"w":5,"h":9},
+		"sourceSize": {"w":5,"h":9}
+	},
+	{
+		"filename": "BorderColt.png",
+		"frame": {"x":348, "y":1111, "w":14, "h":15},
+		"spriteSourceSize": {"x":0,"y":0,"w":14,"h":15},
+		"sourceSize": {"w":14,"h":15}
+	},
+	{
+		"filename": "Button.png",
+		"frame": {"x":483, "y":550, "w":215, "h":62},
+		"spriteSourceSize": {"x":0,"y":0,"w":215,"h":62},
+		"sourceSize": {"w":215,"h":62}
+	},
+	{
+		"filename": "ButtonApasat.png",
+		"frame": {"x":484, "y":436, "w":215, "h":62},
+		"spriteSourceSize": {"x":0,"y":0,"w":215,"h":62},
+		"sourceSize": {"w":215,"h":62}
+	},
+	{
+		"filename": "ButtonCashOut.png",
+		"frame": {"x":0, "y":1131, "w":249, "h":52},
+		"spriteSourceSize": {"x":0,"y":0,"w":249,"h":52},
+		"sourceSize": {"w":249,"h":52}
+	},
+	{
+		"filename": "ButtonCashoutApasat.png",
+		"frame": {"x":250, "y":1131, "w":249, "h":52},
+		"spriteSourceSize": {"x":0,"y":0,"w":249,"h":52},
+		"sourceSize": {"w":249,"h":52}
+	},
+	{
+		"filename": "Casuta.png",
+		"frame": {"x":459, "y":841, "w":185, "h":34},
+		"spriteSourceSize": {"x":0,"y":0,"w":185,"h":34},
+		"sourceSize": {"w":185,"h":34}
+	},
+	{
+		"filename": "CoolNumbers.png",
+		"frame": {"x":594, "y":727, "w":56, "h":46},
+		"spriteSourceSize": {"x":0,"y":0,"w":56,"h":46},
+		"sourceSize": {"w":56,"h":46}
+	},
+	{
+		"filename": "CoolNumbersApasat.png",
+		"frame": {"x":1124, "y":246, "w":46, "h":45},
+		"spriteSourceSize": {"x":0,"y":0,"w":46,"h":45},
+		"sourceSize": {"w":46,"h":45}
+	},
+	{
+		"filename": "CoolNumbersLung.png",
+		"frame": {"x":803, "y":1147, "w":96, "h":45},
+		"spriteSourceSize": {"x":0,"y":0,"w":96,"h":45},
+		"sourceSize": {"w":96,"h":45}
+	},
+	{
+		"filename": "CoolNumbersLungApasat.png",
+		"frame": {"x":593, "y":499, "w":96, "h":45},
+		"spriteSourceSize": {"x":0,"y":0,"w":96,"h":45},
+		"sourceSize": {"w":96,"h":45}
+	},
+	{
+		"filename": "Dozen.png",
+		"frame": {"x":0, "y":104, "w":534, "h":103},
+		"spriteSourceSize": {"x":0,"y":0,"w":534,"h":103},
+		"sourceSize": {"w":534,"h":103}
+	},
+	{
+		"filename": "DozenApasat.png",
+		"frame": {"x":0, "y":0, "w":534, "h":103},
+		"spriteSourceSize": {"x":0,"y":0,"w":534,"h":103},
+		"sourceSize": {"w":534,"h":103}
+	},
+	{
+		"filename": "Even.png",
+		"frame": {"x":314, "y":1007, "w":264, "h":103},
+		"spriteSourceSize": {"x":0,"y":0,"w":264,"h":103},
+		"sourceSize": {"w":264,"h":103}
+	},
+	{
+		"filename": "EvenApasat.png",
+		"frame": {"x":314, "y":903, "w":264, "h":103},
+		"spriteSourceSize": {"x":0,"y":0,"w":264,"h":103},
+		"sourceSize": {"w":264,"h":103}
+	},
+	{
+		"filename": "FlagAUS.png",
+		"frame": {"x":1108, "y":0, "w":61, "h":60},
+		"spriteSourceSize": {"x":0,"y":0,"w":61,"h":60},
+		"sourceSize": {"w":61,"h":60}
+	},
+	{
+		"filename": "FlagENG.png",
+		"frame": {"x":1104, "y":379, "w":61, "h":60},
+		"spriteSourceSize": {"x":0,"y":0,"w":61,"h":60},
+		"sourceSize": {"w":61,"h":60}
+	},
+	{
+		"filename": "FlagGER.png",
+		"frame": {"x":1104, "y":318, "w":61, "h":60},
+		"spriteSourceSize": {"x":0,"y":0,"w":61,"h":60},
+		"sourceSize": {"w":61,"h":60}
+	},
+	{
+		"filename": "FlagHUN.png",
+		"frame": {"x":1104, "y":998, "w":61, "h":60},
+		"spriteSourceSize": {"x":0,"y":0,"w":61,"h":60},
+		"sourceSize": {"w":61,"h":60}
+	},
+	{
+		"filename": "FlagIRL.png",
+		"frame": {"x":1108, "y":122, "w":61, "h":60},
+		"spriteSourceSize": {"x":0,"y":0,"w":61,"h":60},
+		"sourceSize": {"w":61,"h":60}
+	},
+	{
+		"filename": "FlagITA.png",
+		"frame": {"x":1104, "y":937, "w":61, "h":60},
+		"spriteSourceSize": {"x":0,"y":0,"w":61,"h":60},
+		"sourceSize": {"w":61,"h":60}
+	},
+	{
+		"filename": "FlagNED.png",
+		"frame": {"x":1093, "y":876, "w":61, "h":60},
+		"spriteSourceSize": {"x":0,"y":0,"w":61,"h":60},
+		"sourceSize": {"w":61,"h":60}
+	},
+	{
+		"filename": "FlagSPN.png",
+		"frame": {"x":1108, "y":61, "w":61, "h":60},
+		"spriteSourceSize": {"x":0,"y":0,"w":61,"h":60},
+		"sourceSize": {"w":61,"h":60}
+	},
+	{
+		"filename": "Jeton.png",
+		"frame": {"x":1056, "y":1109, "w":64, "h":64},
+		"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+		"sourceSize": {"w":64,"h":64}
+	},
+	{
+		"filename": "JetonAlb.png",
+		"frame": {"x":1061, "y":254, "w":62, "h":63},
+		"spriteSourceSize": {"x":2,"y":4,"w":69,"h":70},
+		"sourceSize": {"w":69,"h":70}
+	},
+	{
+		"filename": "JetonAlbErase.png",
+		"frame": {"x":1093, "y":814, "w":62, "h":61},
+		"spriteSourceSize": {"x":2,"y":4,"w":66,"h":69},
+		"sourceSize": {"w":66,"h":69}
+	},
+	{
+		"filename": "JetonMax.png",
+		"frame": {"x":1050, "y":748, "w":65, "h":65},
+		"spriteSourceSize": {"x":0,"y":0,"w":65,"h":65},
+		"sourceSize": {"w":65,"h":65}
+	},
+	{
+		"filename": "LastNumber.png",
+		"frame": {"x":662, "y":1164, "w":30, "h":30},
+		"spriteSourceSize": {"x":0,"y":0,"w":30,"h":30},
+		"sourceSize": {"w":30,"h":30}
+	},
+	{
+		"filename": "LastNumberApasat.png",
+		"frame": {"x":645, "y":841, "w":30, "h":30},
+		"spriteSourceSize": {"x":0,"y":0,"w":30,"h":30},
+		"sourceSize": {"w":30,"h":30}
+	},
+	{
+		"filename": "LastNumberLung.png",
+		"frame": {"x":900, "y":1147, "w":88, "h":38},
+		"spriteSourceSize": {"x":0,"y":0,"w":88,"h":38},
+		"sourceSize": {"w":88,"h":38}
+	},
+	{
+		"filename": "LastNumberLungApasat.png",
+		"frame": {"x":843, "y":584, "w":88, "h":38},
+		"spriteSourceSize": {"x":0,"y":0,"w":88,"h":38},
+		"sourceSize": {"w":88,"h":38}
+	},
+	{
+		"filename": "LastNumbersTable.png",
+		"frame": {"x":1037, "y":481, "w":30, "h":45},
+		"spriteSourceSize": {"x":0,"y":0,"w":30,"h":45},
+		"sourceSize": {"w":30,"h":45}
+	},
+	{
+		"filename": "LastNumbersTableApasat.png",
+		"frame": {"x":1037, "y":527, "w":30, "h":45},
+		"spriteSourceSize": {"x":0,"y":0,"w":30,"h":45},
+		"sourceSize": {"w":30,"h":45}
+	},
+	{
+		"filename": "Led.png",
+		"frame": {"x":459, "y":876, "w":35, "h":22},
+		"spriteSourceSize": {"x":0,"y":0,"w":35,"h":22},
+		"sourceSize": {"w":35,"h":22}
+	},
+	{
+		"filename": "LedBase.png",
+		"frame": {"x":332, "y":1111, "w":15, "h":14},
+		"spriteSourceSize": {"x":0,"y":0,"w":15,"h":14},
+		"sourceSize": {"w":15,"h":14}
+	},
+	{
+		"filename": "Orphelines.png",
+		"frame": {"x":0, "y":664, "w":459, "h":113},
+		"spriteSourceSize": {"x":0,"y":0,"w":459,"h":113},
+		"sourceSize": {"w":459,"h":113}
+	},
+	{
+		"filename": "OrphelinesApasat.png",
+		"frame": {"x":0, "y":778, "w":458, "h":113},
+		"spriteSourceSize": {"x":0,"y":0,"w":458,"h":113},
+		"sourceSize": {"w":458,"h":113}
+	},
+	{
+		"filename": "Patrat.png",
+		"frame": {"x":823, "y":639, "w":129, "h":113},
+		"spriteSourceSize": {"x":0,"y":0,"w":129,"h":113},
+		"sourceSize": {"w":129,"h":113}
+	},
+	{
+		"filename": "PatratApasat.png",
+		"frame": {"x":734, "y":354, "w":129, "h":113},
+		"spriteSourceSize": {"x":0,"y":0,"w":129,"h":113},
+		"sourceSize": {"w":129,"h":113}
+	},
+	{
+		"filename": "Romb.png",
+		"frame": {"x":579, "y":876, "w":160, "h":71},
+		"spriteSourceSize": {"x":0,"y":0,"w":160,"h":71},
+		"sourceSize": {"w":160,"h":71}
+	},
+	{
+		"filename": "RombApasat.png",
+		"frame": {"x":500, "y":1111, "w":161, "h":70},
+		"spriteSourceSize": {"x":0,"y":0,"w":161,"h":70},
+		"sourceSize": {"w":161,"h":70}
+	},
+	{
+		"filename": "Round0.png",
+		"frame": {"x":579, "y":948, "w":145, "h":139},
+		"spriteSourceSize": {"x":0,"y":0,"w":145,"h":139},
+		"sourceSize": {"w":145,"h":139}
+	},
+	{
+		"filename": "Round0Apasat.png",
+		"frame": {"x":677, "y":727, "w":145, "h":139},
+		"spriteSourceSize": {"x":0,"y":0,"w":145,"h":139},
+		"sourceSize": {"w":145,"h":139}
+	},
+	{
+		"filename": "Round10.png",
+		"frame": {"x":843, "y":468, "w":126, "h":115},
+		"spriteSourceSize": {"x":0,"y":0,"w":126,"h":115},
+		"sourceSize": {"w":126,"h":115}
+	},
+	{
+		"filename": "Round10Apasat.png",
+		"frame": {"x":869, "y":866, "w":126, "h":116},
+		"spriteSourceSize": {"x":0,"y":0,"w":126,"h":116},
+		"sourceSize": {"w":126,"h":116}
+	},
+	{
+		"filename": "Round23.png",
+		"frame": {"x":823, "y":753, "w":126, "h":112},
+		"spriteSourceSize": {"x":0,"y":0,"w":126,"h":112},
+		"sourceSize": {"w":126,"h":112}
+	},
+	{
+		"filename": "Round23Apasat.png",
+		"frame": {"x":864, "y":354, "w":125, "h":112},
+		"spriteSourceSize": {"x":0,"y":0,"w":125,"h":112},
+		"sourceSize": {"w":125,"h":112}
+	},
+	{
+		"filename": "Round26.png",
+		"frame": {"x":869, "y":983, "w":119, "h":163},
+		"spriteSourceSize": {"x":0,"y":0,"w":119,"h":163},
+		"sourceSize": {"w":119,"h":163}
+	},
+	{
+		"filename": "Round26Apasat.png",
+		"frame": {"x":953, "y":584, "w":118, "h":163},
+		"spriteSourceSize": {"x":0,"y":0,"w":118,"h":163},
+		"sourceSize": {"w":118,"h":163}
+	},
+	{
+		"filename": "Round3.png",
+		"frame": {"x":699, "y":499, "w":143, "h":139},
+		"spriteSourceSize": {"x":0,"y":0,"w":143,"h":139},
+		"sourceSize": {"w":143,"h":139}
+	},
+	{
+		"filename": "Round3Apasat.png",
+		"frame": {"x":725, "y":948, "w":143, "h":139},
+		"spriteSourceSize": {"x":0,"y":0,"w":143,"h":139},
+		"sourceSize": {"w":143,"h":139}
+	},
+	{
+		"filename": "Round5.png",
+		"frame": {"x":994, "y":127, "w":113, "h":126},
+		"spriteSourceSize": {"x":0,"y":0,"w":113,"h":126},
+		"sourceSize": {"w":113,"h":126}
+	},
+	{
+		"filename": "Round5Apasat.png",
+		"frame": {"x":990, "y":354, "w":113, "h":126},
+		"spriteSourceSize": {"x":0,"y":0,"w":113,"h":126},
+		"sourceSize": {"w":113,"h":126}
+	},
+	{
+		"filename": "Round8.png",
+		"frame": {"x":994, "y":0, "w":113, "h":126},
+		"spriteSourceSize": {"x":0,"y":0,"w":113,"h":126},
+		"sourceSize": {"w":113,"h":126}
+	},
+	{
+		"filename": "Round8Apasat.png",
+		"frame": {"x":989, "y":983, "w":114, "h":125},
+		"spriteSourceSize": {"x":0,"y":0,"w":114,"h":125},
+		"sourceSize": {"w":114,"h":125}
+	},
+	{
+		"filename": "RoundBase.png",
+		"frame": {"x":996, "y":862, "w":96, "h":113},
+		"spriteSourceSize": {"x":0,"y":0,"w":96,"h":113},
+		"sourceSize": {"w":96,"h":113}
+	},
+	{
+		"filename": "RoundBaseApasat.png",
+		"frame": {"x":953, "y":748, "w":96, "h":113},
+		"spriteSourceSize": {"x":0,"y":0,"w":96,"h":113},
+		"sourceSize": {"w":96,"h":113}
+	},
+	{
+		"filename": "Sageata.png",
+		"frame": {"x":970, "y":481, "w":66, "h":72},
+		"spriteSourceSize": {"x":0,"y":0,"w":66,"h":72},
+		"sourceSize": {"w":66,"h":72}
+	},
+	{
+		"filename": "SageataApasat.png",
+		"frame": {"x":994, "y":254, "w":66, "h":72},
+		"spriteSourceSize": {"x":0,"y":0,"w":66,"h":72},
+		"sourceSize": {"w":66,"h":72}
+	},
+	{
+		"filename": "Save.png",
+		"frame": {"x":740, "y":867, "w":108, "h":44},
+		"spriteSourceSize": {"x":0,"y":0,"w":108,"h":44},
+		"sourceSize": {"w":108,"h":44}
+	},
+	{
+		"filename": "SaveApasat.png",
+		"frame": {"x":484, "y":499, "w":108, "h":44},
+		"spriteSourceSize": {"x":0,"y":0,"w":108,"h":44},
+		"sourceSize": {"w":108,"h":44}
+	},
+	{
+		"filename": "SaveX.png",
+		"frame": {"x":1108, "y":183, "w":57, "h":62},
+		"spriteSourceSize": {"x":0,"y":0,"w":57,"h":62},
+		"sourceSize": {"w":57,"h":62}
+	},
+	{
+		"filename": "SaveXApasat.png",
+		"frame": {"x":1116, "y":715, "w":56, "h":63},
+		"spriteSourceSize": {"x":0,"y":0,"w":56,"h":63},
+		"sourceSize": {"w":56,"h":63}
+	},
+	{
+		"filename": "SaveXBack.png",
+		"frame": {"x":989, "y":1109, "w":66, "h":72},
+		"spriteSourceSize": {"x":0,"y":0,"w":66,"h":72},
+		"sourceSize": {"w":66,"h":72}
+	},
+	{
+		"filename": "Series023.png",
+		"frame": {"x":0, "y":550, "w":482, "h":113},
+		"spriteSourceSize": {"x":0,"y":0,"w":482,"h":113},
+		"sourceSize": {"w":482,"h":113}
+	},
+	{
+		"filename": "Series023Apasat.png",
+		"frame": {"x":0, "y":436, "w":483, "h":113},
+		"spriteSourceSize": {"x":0,"y":0,"w":483,"h":113},
+		"sourceSize": {"w":483,"h":113}
+	},
+	{
+		"filename": "Series58.png",
+		"frame": {"x":0, "y":208, "w":520, "h":113},
+		"spriteSourceSize": {"x":0,"y":0,"w":520,"h":113},
+		"sourceSize": {"w":520,"h":113}
+	},
+	{
+		"filename": "Series58Apasat.png",
+		"frame": {"x":0, "y":322, "w":520, "h":113},
+		"spriteSourceSize": {"x":0,"y":0,"w":520,"h":113},
+		"sourceSize": {"w":520,"h":113}
+	},
+	{
+		"filename": "Star1.png",
+		"frame": {"x":611, "y":613, "w":51, "h":44},
+		"spriteSourceSize": {"x":0,"y":0,"w":51,"h":44},
+		"sourceSize": {"w":51,"h":44}
+	},
+	{
+		"filename": "Star2.png",
+		"frame": {"x":1121, "y":1059, "w":55, "h":54},
+		"spriteSourceSize": {"x":0,"y":0,"w":55,"h":54},
+		"sourceSize": {"w":55,"h":54}
+	},
+	{
+		"filename": "Star3.png",
+		"frame": {"x":700, "y":421, "w":33, "h":34},
+		"spriteSourceSize": {"x":0,"y":0,"w":33,"h":34},
+		"sourceSize": {"w":33,"h":34}
+	},
+	{
+		"filename": "Star4.png",
+		"frame": {"x":651, "y":727, "w":23, "h":27},
+		"spriteSourceSize": {"x":0,"y":0,"w":23,"h":27},
+		"sourceSize": {"w":23,"h":27}
+	},
+	{
+		"filename": "Star5.png",
+		"frame": {"x":314, "y":1111, "w":17, "h":18},
+		"spriteSourceSize": {"x":0,"y":0,"w":17,"h":18},
+		"sourceSize": {"w":17,"h":18}
+	},
+	{
+		"filename": "Star6.png",
+		"frame": {"x":803, "y":1088, "w":57, "h":53},
+		"spriteSourceSize": {"x":0,"y":0,"w":57,"h":53},
+		"sourceSize": {"w":57,"h":53}
+	},
+	{
+		"filename": "Tex_01_05.png",
+		"frame": {"x":1050, "y":814, "w":42, "h":42},
+		"spriteSourceSize": {"x":0,"y":0,"w":42,"h":42},
+		"sourceSize": {"w":42,"h":42}
+	},
+	{
+		"filename": "Tex_01_06.png",
+		"frame": {"x":32, "y":1184, "w":5, "h":5},
+		"spriteSourceSize": {"x":0,"y":0,"w":5,"h":5},
+		"sourceSize": {"w":5,"h":5}
+	},
+	{
+		"filename": "Tex_01_07.png",
+		"frame": {"x":1155, "y":876, "w":42, "h":42},
+		"spriteSourceSize": {"x":0,"y":0,"w":42,"h":42},
+		"sourceSize": {"w":42,"h":42}
+	},
+	{
+		"filename": "Tex_01_12.png",
+		"frame": {"x":1072, "y":598, "w":85, "h":116},
+		"spriteSourceSize": {"x":0,"y":0,"w":85,"h":116},
+		"sourceSize": {"w":85,"h":116}
+	},
+	{
+		"filename": "Tex_01_13.png",
+		"frame": {"x":1072, "y":481, "w":85, "h":116},
+		"spriteSourceSize": {"x":0,"y":0,"w":85,"h":116},
+		"sourceSize": {"w":85,"h":116}
+	},
+	{
+		"filename": "Tex_01_45.png",
+		"frame": {"x":483, "y":613, "w":127, "h":43},
+		"spriteSourceSize": {"x":0,"y":0,"w":127,"h":43},
+		"sourceSize": {"w":127,"h":43}
+	},
+	{
+		"filename": "Tex_01_52.png",
+		"frame": {"x":460, "y":727, "w":133, "h":25},
+		"spriteSourceSize": {"x":0,"y":0,"w":133,"h":25},
+		"sourceSize": {"w":133,"h":25}
+	},
+	{
+		"filename": "Tex_03_02.png",
+		"frame": {"x":459, "y":778, "w":217, "h":62},
+		"spriteSourceSize": {"x":0,"y":0,"w":217,"h":62},
+		"sourceSize": {"w":217,"h":62}
+	},
+	{
+		"filename": "Tex_03_05.png",
+		"frame": {"x":460, "y":664, "w":217, "h":62},
+		"spriteSourceSize": {"x":0,"y":0,"w":217,"h":62},
+		"sourceSize": {"w":217,"h":62}
+	},
+	{
+		"filename": "Tex_03_07.png",
+		"frame": {"x":662, "y":1088, "w":140, "h":75},
+		"spriteSourceSize": {"x":0,"y":0,"w":140,"h":75},
+		"sourceSize": {"w":140,"h":75}
+	},
+	{
+		"filename": "Tex_03_09.png",
+		"frame": {"x":678, "y":639, "w":140, "h":75},
+		"spriteSourceSize": {"x":0,"y":0,"w":140,"h":75},
+		"sourceSize": {"w":140,"h":75}
+	},
+	{
+		"filename": "WheelInele.png",
+		"frame": {"x":521, "y":208, "w":212, "h":212},
+		"spriteSourceSize": {"x":0,"y":0,"w":212,"h":212},
+		"sourceSize": {"w":212,"h":212}
+	},
+	{
+		"filename": "WheelLed.png",
+		"frame": {"x":1121, "y":1114, "w":53, "h":53},
+		"spriteSourceSize": {"x":0,"y":0,"w":53,"h":53},
+		"sourceSize": {"w":53,"h":53}
+	},
+	{
+		"filename": "WheelLedAlb.png",
+		"frame": {"x":16, "y":1184, "w":15, "h":12},
+		"spriteSourceSize": {"x":0,"y":0,"w":15,"h":12},
+		"sourceSize": {"w":15,"h":12}
+	},
+	{
+		"filename": "WheelLedBase.png",
+		"frame": {"x":693, "y":1164, "w":30, "h":31},
+		"spriteSourceSize": {"x":0,"y":0,"w":30,"h":31},
+		"sourceSize": {"w":30,"h":31}
+	},
+	{
+		"filename": "WheelNumbers.png",
+		"frame": {"x":535, "y":0, "w":190, "h":191},
+		"spriteSourceSize": {"x":10,"y":7,"w":214,"h":210},
+		"sourceSize": {"w":214,"h":210}
+	},
+	{
+		"filename": "WheelPocket.png",
+		"frame": {"x":651, "y":755, "w":18, "h":22},
+		"spriteSourceSize": {"x":0,"y":0,"w":18,"h":22},
+		"sourceSize": {"w":18,"h":22}
+	},
+	{
+		"filename": "WhitePixel.png",
+		"frame": {"x":32, "y":1184, "w":5, "h":5},
+		"spriteSourceSize": {"x":0,"y":0,"w":5,"h":5},
+		"sourceSize": {"w":5,"h":5}
+	},
+	{
+		"filename": "Zero.png",
+		"frame": {"x":734, "y":0, "w":129, "h":353},
+		"spriteSourceSize": {"x":0,"y":0,"w":129,"h":353},
+		"sourceSize": {"w":129,"h":353}
+	},
+	{
+		"filename": "ZeroApasat.png",
+		"frame": {"x":864, "y":0, "w":129, "h":353},
+		"spriteSourceSize": {"x":0,"y":0,"w":129,"h":353},
+		"sourceSize": {"w":129,"h":353}
+	},
+	{
+		"filename": "ZeroGame.png",
+		"frame": {"x":0, "y":903, "w":313, "h":113},
+		"spriteSourceSize": {"x":0,"y":0,"w":313,"h":113},
+		"sourceSize": {"w":313,"h":113}
+	},
+	{
+		"filename": "ZeroGameApasat.png",
+		"frame": {"x":0, "y":1017, "w":313, "h":113},
+		"spriteSourceSize": {"x":0,"y":0,"w":313,"h":113},
+		"sourceSize": {"w":313,"h":113}
+	}
+
+],
+"meta": {
+	"image": "TextureAtlas.png",
+	"size": {"w": 1198, "h": 1197},
+	"scale": "1"
+}
+}
